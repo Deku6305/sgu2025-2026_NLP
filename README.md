@@ -29,5 +29,6 @@
 ```bash
 ├── checkpoints/            # Chứa best_model 
 ├── data/                   # Chứa dữ liệu train/test
-├── NLP_29K.ipynb           # Jupyter Notebooks 
+├── NLP_29K.ipynb            # Jupyter Notebooks 
+├── NLP_báo_cáo.pdf        # report
 ├── README.md               # Thông tin thành viên, dự án
