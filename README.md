@@ -28,7 +28,6 @@
 
 ```bash
 ├── data/                   # Chứa dữ liệu train/test
-├── models/                 # Chứa các file model đã train (.h5, .pth)
-├── notebooks/              # Jupyter Notebooks dùng để chạy thử nghiệm
-├── src/                    # Mã nguồn chính (preprocessing, training, inference)
-├── README.md               # Thông tin dự án
+├── checkpoints/            # Chứa best_model 
+├── notebooks/              # Jupyter Notebooks 
+├── README.md               # Thông tin thành viên, dự án
