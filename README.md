@@ -27,7 +27,7 @@
 ## 📂 Cấu trúc thư mục
 
 ```bash
-├── data/                   # Chứa dữ liệu train/test
 ├── checkpoints/            # Chứa best_model 
-├── notebooks/              # Jupyter Notebooks 
+├── data/                   # Chứa dữ liệu train/test
+├── NLP_29K.ipynb           # Jupyter Notebooks 
 ├── README.md               # Thông tin thành viên, dự án
